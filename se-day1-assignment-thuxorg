@@ -61,3 +61,19 @@ Example: making the apps visible at platforms as playstore or appstore for users
 Even the best-built ships required maintenance. Software, once deployed, must be continuously updated and improved. This phase ensures the software remains functional and relevant.
 Example: To apply updates or fix minor bugs in their apps, understanding the importance of the maintenance phase.
 
+Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+Waterfall methodologies
+ Description: The Waterfall model, introduced by Winston W. Royce in 1970, was one of the first formalized methodologies for software development. It defined a sequential design process with distinct phases:
+ Requirements, Design, Implementation, Testing, Deployment, and Maintenance. Each phase flows into the next, like a waterfall, with a strong emphasis on thorough documentation and upfront planning.
+
+while the Agile methodologies
+Description: The Agile Manifesto, published in 2001, marked a major departure from traditional software development models like Waterfall. Agile methodologies prioritize flexibility, customer collaboration, and iterative development.
+Teams work in short cycles called sprints, delivering small, incremental improvements to the software, allowing for continuous feedback and adaptation of what the users of the software may need or requre update.
+
+but both are the methodologies used to deliver software to life and ensure their reliableness and funtionality to the users.
+
+
+   
+
+   
+
